@@ -6,6 +6,6 @@ This project includes sales data for an automotive company selling products glob
 This repo includes a Jupyter notebook containing all the code, as well as a directory containing the dataset.
 <br>
 <br>
-link to Tableau Dashboard: <a target="_blank">https://public.tableau.com/views/AutomotiveCompany_SalesAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link</a>
+link to Tableau Dashboard <a href="https://public.tableau.com/views/AutomotiveCompany_SalesAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">here</a>
 <br>
 > Disclaimer: I do not own the data provided in this project
