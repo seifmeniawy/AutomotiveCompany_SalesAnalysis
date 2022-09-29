@@ -1,4 +1,4 @@
-# AutomotiveCompany_SalesAnalysis
+# Automotive Company Sales Analysis
 
 ## -- This is a portfolio project. --<br><br>
 This project includes sales data for an automotive company selling products globally. In this project, I demonstrate technical, as well as problem-solving skills to answer questions and provide insights.<br>
